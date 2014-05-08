@@ -27,7 +27,7 @@ Firefox
 
 
 ;Firefox screenshot
-תצלום מסך של Firefox
+צילום מסך של Firefox
 
 
 ;Thanks for downloading Firefox!
@@ -35,7 +35,7 @@ Firefox
 
 
 ;Start the process by clicking Run.
-ניתן להתחיל את התהליך בלחיצה על "הפעלה".
+ניתן להתחיל את התהליך בלחיצה על „הפעלה“.
 
 
 ;Your download should begin automatically. If not, <a id="%s" href="">click here</a>. It could take a few minutes, but it’s worth the wait.
@@ -43,19 +43,19 @@ Firefox
 
 
 ;When prompted, drag the Firefox icon into the image of your Applications folder.
-כאשר תופיע הבקשה לכך, נא לגרור את הצלמית של Firefox אל התמונה של תיקיית היישומים שלך.
+כאשר תופיע הבקשה לכך, נא לגרור את הסמל של Firefox אל התמונה של תיקיית היישומים שלך.
 
 
 ;Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the steps (we've made the process as painless as possible).
-נא ללחוץ על "הפעלה" כדי להפעיל את אשף ההתקנה של Mozilla Firefox. לאחר מכן יהיה עליך לעקוב אחר השלבים (דאגנו שהתהליך יהיה פשוט ככל האפשר).
+נא ללחוץ על „הפעלה“ כדי להפעיל את אשף ההתקנה של Mozilla Firefox. לאחר מכן יהיה עליך לעקוב אחר השלבים (דאגנו שהתהליך יהיה פשוט ככל האפשר).
 
 
 ;Drag the Firefox icon from the Applications folder into the dock. Then, just click on Firefox whenever you want to use the web!
-נא לגרור את הצלמית של Firefox מתיקיית היישומים אל המעגן. לאחר מכן ניתן יהיה ללחוץ על הצלמית של Firefox בכל פעם שנרצה להשתמש ברשת!
+נא לגרור את הצלמית של Firefox מתיקיית היישומים אל המעגן. לאחר מכן ניתן יהיה ללחוץ על הסמל של Firefox בכל פעם שנרצה להשתמש ברשת!
 
 
 ;Now you’re ready to leap boldly into a new era of Web surfing. Double-click on the Firefox icon whenever you want to go online.
-כעת אנחנו מוכנים לזינוק אמיץ אל עידן חדש של גלישה ברשת. יש לבצע לחיצה כפולה על הצלמית של Firefox בכל פעם שנרצה להיות מקוונים ברשת.
+כעת אנחנו מוכנים לזינוק אמיץ אל עידן חדש של גלישה ברשת. יש לבצע לחיצה כפולה על הסמל של Firefox בכל פעם שנרצה להיות מקוונים ברשת.
 
 
 ;1
@@ -77,11 +77,11 @@ Firefox
 
 # New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
 ;Sorry, Firefox is currently unsupported by iOS devices.
-אנו מצטערים, Firefox אינו נתמך כעת על מכשירי iOS.
+Firefox אינו נתמך כעת על מכשירי iOS, עמכם הסליחה.
 
 
 ;Congrats! You’re using the latest version of Firefox.
-הידד! ברשותך הגרסה העדכנית ביותר של Firefox.
+שא ברכה! ברשותך הגרסה העדכנית ביותר של Firefox.
 
 
 ;Looks like you’re using an older version of Firefox. Update on Google Play.
